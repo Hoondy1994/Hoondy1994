@@ -1,0 +1,18 @@
+# ninja log v6
+5	684	7532973247276300	qtsignal_autogen/timestamp	5f164eabb265251f
+5	684	7532973247276300	D:/zhanghong/qt/qtsignal/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/qtsignal_autogen/mocs_compilation.cpp	5f164eabb265251f
+5	684	7532973247276300	qtsignal_autogen/mocs_compilation.cpp	5f164eabb265251f
+5	684	7532973247276300	D:/zhanghong/qt/qtsignal/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/qtsignal_autogen/timestamp	5f164eabb265251f
+693	3316	7532973248083639	CMakeFiles/qtsignal.dir/qtsignal_autogen/mocs_compilation.cpp.obj	f59ec09130e89a31
+701	3381	7532973248173390	CMakeFiles/qtsignal.dir/main.cpp.obj	f73694f3f41e2f
+710	3437	7532973248253182	CMakeFiles/qtsignal.dir/mainwindow.cpp.obj	2b35655d1d12371d
+3437	4424	7532973275522002	qtsignal.exe	555409dee653c318
+76	1005	7532978488516824	qtsignal_autogen/timestamp	5f164eabb265251f
+76	1005	7532978488516824	qtsignal_autogen/mocs_compilation.cpp	5f164eabb265251f
+76	1005	7532978488516824	D:/zhanghong/qt/qtsignal/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/qtsignal_autogen/timestamp	5f164eabb265251f
+76	1005	7532978488516824	D:/zhanghong/qt/qtsignal/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/qtsignal_autogen/mocs_compilation.cpp	5f164eabb265251f
+1034	6838	7532978489625379	CMakeFiles/qtsignal.dir/Worker.cpp.obj	683a20b16cb86f5d
+1006	6853	7532978489346185	CMakeFiles/qtsignal.dir/qtsignal_autogen/mocs_compilation.cpp.obj	f59ec09130e89a31
+1014	6858	7532978489425919	CMakeFiles/qtsignal.dir/main.cpp.obj	f73694f3f41e2f
+1024	6867	7532978489525655	CMakeFiles/qtsignal.dir/mainwindow.cpp.obj	2b35655d1d12371d
+6867	8399	7532978547957232	qtsignal.exe	d880304d9e67e70c

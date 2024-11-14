@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-842eec892cee4376c902.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qtsignal",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qtsignal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtsignal-Debug-c959659effea84168630.json",
+					"name" : "qtsignal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qtsignal_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtsignal_autogen-Debug-48afafc22f188b9e1392.json",
+					"name" : "qtsignal_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qtsignal_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtsignal_autogen_timestamp_deps-Debug-3670d8d3093303891526.json",
+					"name" : "qtsignal_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/zhanghong/qt/qtsignal/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "D:/zhanghong/qt/qtsignal"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
