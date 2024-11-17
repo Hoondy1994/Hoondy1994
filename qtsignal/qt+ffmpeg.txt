@@ -1,0 +1,2 @@
+https://github.com/zolitary/Slow_player
+https://github.com/yundiantech/VideoPlayer
