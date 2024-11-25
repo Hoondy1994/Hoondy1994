@@ -1,0 +1,1 @@
+opencv的dll下载：https://github.com/huihut/OpenCV-MinGW-Build
